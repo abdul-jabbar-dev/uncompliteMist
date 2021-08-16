@@ -1,0 +1,41 @@
+/* .top_section {
+    background-image: url('logo.png');
+    opacity: ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+
+.myPrimary {
+    /* background-color: #1E9D5B; */
+    background: rgb(0, 165, 79);
+}
+
+.myText {
+    color: rgb(0, 165, 79);
+}
+
+.myGradient {
+    background: rgb(0, 165, 79);
+    background: linear-gradient(94deg, rgba(0, 165, 79, 1) 0%, rgba(67, 56, 192, 1) 100%);
+}
+
+/* 
+
+body {
+    z-index: 5;
+}
+
+body::before {
+    content: "";
+    background-image: url(logo.png);
+    background-size: 40%;
+    position: absolute;
+    background-repeat: no-repeat;
+    top: 0;
+    background-position: center;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.2;
+} */
